@@ -1,6 +1,8 @@
 # eRTMAC-NWIS
 
-Nearby Wells Intelligence System: an AI-assisted, location-aware decision-support prototype for drilling operations.http://localhost:5173
+Nearby Wells Intelligence System: an AI-assisted, location-aware decision-support prototype for drilling operations.
+
+Local dashboard: [http://localhost:5173](http://localhost:5173)
 
 The system helps an engineer compare an active well with nearby historical wells, inspect historical drilling events, identify repeated depth intervals, view telemetry, and review model-estimated risks.
 
@@ -458,5 +460,3 @@ The next implementation milestones are:
 ## Safety and Data Policy
 
 This project is intended to support engineering review. It must not directly control drilling equipment. Historical evidence and model estimates must remain visually and technically distinguishable. Use only legitimate public sources or authorized user uploads, respect source terms and robots rules, and never bypass authentication, CAPTCHA, paywalls, or access controls.
-#   s i h _ s e c o n d  
- 
